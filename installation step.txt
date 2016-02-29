@@ -1,0 +1,17 @@
+1. Install ruby first in system
+	http://www.impressivewebs.com/sass-on-windows/
+	ruby install steps
+
+2. gem install ruby
+   ruby -v
+
+3. gem install compass
+   compass -v
+
+4. gem install sass
+   sass -v
+
+5 compass create project_folder-Name
+  Ex- compass create test-1
+
+6. compass watch (for watching the all changes)

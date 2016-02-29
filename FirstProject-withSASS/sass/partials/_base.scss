@@ -1,0 +1,8 @@
+body {
+	font-falily: arial;
+	font-size: 16px;
+	font-color: #000;
+	line-height: 18px;
+	background: #ccc;
+	@include default-color(red);
+}
